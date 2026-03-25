@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Calven0914.github.io/ReactWebsite",
+  "homepage": "https://Calven0914.github.io/ReactWebsite/",
   "name": "personal-portfolio",
   "version": "1.0.0",
   "private": true,
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },
@@ -31,5 +31,4 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
-  
 }

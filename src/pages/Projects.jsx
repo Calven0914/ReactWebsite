@@ -77,7 +77,7 @@ export default function Projects() {
               Want to see more?
             </p>
             <a
-              href="https://github.com/alexreyes"
+              href="https://github.com/Calven0914"
               target="_blank"
               rel="noreferrer"
               className="btn-outline-custom"
