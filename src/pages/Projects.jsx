@@ -12,7 +12,7 @@ const PROJECTS = [
   description:
     'A web-based system that analyzes uploaded video footage to track customer flow, identify peak hours, and measure time spent in a café. Built using OpenCV and YOLO for human detection, with automated report generation in CSV and visual formats to support business decision-making.',
   techs: ['Python', 'OpenCV', 'YOLO', 'PHP', 'XAMPP', 'MySQL'],
-  githubUrl: 'https://github.com/yourusername/cafe-analytics-system',
+  githubUrl: 'https://github.com/Calven0914/FinalYearProject',
   demoUrl: null,
 },
 {
@@ -20,10 +20,12 @@ const PROJECTS = [
   description:
     'A Flutter mobile application that provides users with a collection of baking recipes categorized by country. Features include step-by-step flashcards, a random recipe spin wheel, favorites system, and Firebase integration for data storage and authentication.',
   techs: ['Flutter', 'Dart', 'Firebase', 'Firestore', 'Firebase Auth'],
-  githubUrl: 'https://github.com/yourusername/baking-recipe-app',
+  githubUrl: 'https://github.com/Calven0914/flutter_pastryapp',
   demoUrl: null,
 },
 {
+
+  
   title: 'Employee Management System',
   description:
     'A desktop application developed using C# .NET that allows users to manage employee records, including adding, editing, and deleting employee information. Includes salary calculation functionality and basic reporting features.',
@@ -36,7 +38,7 @@ const PROJECTS = [
   description:
     'A web-based system designed to streamline the recruitment process, allowing administrators to manage job postings, track applicants, and organize candidate information efficiently. Built with a focus on CRUD operations and user-friendly interface design.',
   techs: ['PHP', 'Laravel', 'MySQL', 'Bootstrap'],
-  githubUrl: 'https://github.com/yourusername/recruitment-system',
+  githubUrl: 'https://github.com/Calven0914/recruitmentsystemv2',
   demoUrl: null,
 },
 ];
