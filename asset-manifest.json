@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Calven0914/ReactWebsite.git/static/css/main.51ba4908.css",
+    "main.js": "/Calven0914/ReactWebsite.git/static/js/main.0ec95719.js",
+    "index.html": "/Calven0914/ReactWebsite.git/index.html",
+    "main.51ba4908.css.map": "/Calven0914/ReactWebsite.git/static/css/main.51ba4908.css.map",
+    "main.0ec95719.js.map": "/Calven0914/ReactWebsite.git/static/js/main.0ec95719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51ba4908.css",
+    "static/js/main.0ec95719.js"
+  ]
+}
