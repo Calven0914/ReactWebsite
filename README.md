@@ -1,4 +1,4 @@
-# Alex Reyes — Personal Portfolio
+# Calven Chow — Personal Portfolio
 
 A clean, responsive portfolio website built with React and Bootstrap 5.
 
