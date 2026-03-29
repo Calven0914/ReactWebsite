@@ -8,7 +8,7 @@ A clean, responsive portfolio website built with React and Bootstrap 5.
 - **Bootstrap 5** + **React-Bootstrap** — layout & UI
 - **Bootstrap Icons** — icon set
 - **Google Fonts** — DM Serif Display, DM Mono, Outfit
-- Fully static — no backend required
+- Fully static — no backend yet
 
 ## Getting Started
 
@@ -64,7 +64,7 @@ portfolio/
 
 Update the following with your real info:
 
-- [ ] **Name** — search for "Alex Reyes" and replace throughout
+- [ ] **Name** — search for "Calven Chow" and replace throughout
 - [ ] **Role / bio** — `pages/About.jsx` and `pages/Home.jsx`
 - [ ] **Skills** — `SKILLS` array in `pages/About.jsx`
 - [ ] **Education** — edu cards in `pages/About.jsx`
